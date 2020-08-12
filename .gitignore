@@ -1,0 +1,4 @@
+lib/
+include/
+bin/src/doc_generator/__pycache__/
+pyvenv.cfg
